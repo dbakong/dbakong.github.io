@@ -9,7 +9,7 @@ If you're reading this, you've stumbled upon my corner of the internet. This blo
 
 By day, I'm an SRE at a startup in the Bay Area, where I spend my time building and scaling reliable, fault-tolerant infrastructure. But when I'm not at work, you can find me exploring the great outdoors or diving deep into my latest passion: deep learning.
 
-I've set out on a mission to complete the [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum#how-to-use-this-curriculum), which will take me through the fundamentals of machine learning all the way to advanced topics like natural language processing and computer vision. To get there, I'll be brushing up on my prerequisites with courses like [Fast.ai](https://www.fast.ai/) Part 1&2 and [FSDL](https://fullstackdeeplearning.com/). It's a long road ahead, but I'm excited to be on it!
+I've set out on a mission to complete the [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum#how-to-use-this-curriculum), which will take me through the fundamentals of machine learning all the way to advanced topics like natural language processing and computer vision. To get there, I'll be brushing up on my prerequisites with courses like [Fast.ai](https://www.fast.ai/) Part 1&2 and [Full Stack Deep Learning (FSDL)](https://fullstackdeeplearning.com/). It's a long road ahead, but I'm excited to be on it!
 
 ## Learning Plan
 
