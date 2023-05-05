@@ -1,4 +1,4 @@
 baseURL = 'https://dbakong.github.io/'
 languageCode = 'en-us'
 title = "dbakong's blog"
-theme = 'ananke'
+theme = 'PaperMod'
